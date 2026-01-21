@@ -52,7 +52,7 @@ todo-app/
 ## 🔗 Live Demo
 
 You can view the live app here:  
-[https://github.com/Nadazaman/Todo-app] 
+[https://nadazaman.github.io/Todo-app/] 
 
 ---
 
